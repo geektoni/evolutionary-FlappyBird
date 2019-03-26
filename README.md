@@ -7,6 +7,8 @@ hitting any pipes. The agend was controlled by a feed-forward neural network and
 using **reinforcement learning** and evolutionary computation techiques (more specifically, **differential evolution** and
 **NEAT**). 
 
+**[Here](https://github.com/geektoni/evolutionary-FlappyBird/blob/master/report/DeToni_Coman_Mousavi_BioProject.pdf) you can find a more detailed report about the techniques and the method used.**
+
 ## Installation
 
 The project was tested on **Ubuntu 16.04** and it is compliant with **Python 3.6**. We used **Pipenv** in order to manage
