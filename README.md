@@ -9,6 +9,11 @@ using **reinforcement learning** and evolutionary computation techiques (more sp
 
 **[Here](https://github.com/geektoni/evolutionary-FlappyBird/blob/master/report/DeToni_Coman_Mousavi_BioProject.pdf) you can find a more detailed report about the techniques and the method used.**
 
+![](https://media.giphy.com/media/1AIgP9e7zgjHIalKl6/giphy.gif)
+![](https://media.giphy.com/media/iOsdaY31XoOlj7WrCc/giphy.gif)
+
+The left image shows how a random agent perform, while the right image shows how an evolved agent perform.
+
 ## Installation
 
 The project was tested on **Ubuntu 16.04** and it is compliant with **Python 3.6**. We used **Pipenv** in order to manage
