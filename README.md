@@ -26,6 +26,9 @@ python3 evo_flappy.py --MODE_AGENT --MODE_LEARN --PLAY_BEST --MODE_NO_SCREEN --E
 ```
 
 ## Contributors
+
 Giovanni De Toni: [giovanni.detoni@studenti.unitn.it](mailto:giovanni.detoni@studenti.unitn.it)
+
 Seyed Mahed Mousavi: [seyedmahed.mousavi@studenti.unitn.it](mailto:seyedmahed.mousavi@studenti.unitn.it)
+
 Andrei Catalin Coman: [andreicatalin.coman@studenti.unitn.it](mailto:andreicatalin.coman@studenti.unitn.it)
